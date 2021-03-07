@@ -1,8 +1,8 @@
 {
-  "name": "endur.io",
-  "displayName": "Endurio",
-  "version": "1.0.0",
-  "description": "Endurio Mobile Miner.",
+  "name": "io.endur.miner",
+  "displayName": "Endurio Miner",
+  "version": "0.1.0",
+  "description": "Endurio Miner for Mobile.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
