@@ -5,6 +5,7 @@
   "description": "Endurio Miner for Mobile.",
   "main": "index.js",
   "scripts": {
+    "build": "cordova build android",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
